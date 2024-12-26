@@ -1,5 +1,5 @@
 # Characteristics-and-Performance-metrics-of-strikers.-
-![]()
+![](https://github.com/AAdiV3loci7y/Characteristics-and-Performance-metrics-of-strikers.-/blob/main/Striker%201.jpeg)
 The project involves utilizing data analytics techniques to explore and understand the characteristics and performance metrics of strikers. It will cover a complete picture of real-world data analytics application in python programming language.
 
 Let's Jump Right in!
